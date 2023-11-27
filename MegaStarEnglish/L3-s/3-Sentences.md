@@ -1,4 +1,11 @@
 1. What did they say?  <span style="color:blue">[wʌt did θei sei]</span>
+```diff
+- RED text
++ GREEN text
+! ORANGE text
+# GRAY text
+```
+
 2. We are safe now
 3. I see her (I saw her)
 4. He is sick
