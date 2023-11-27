@@ -1,4 +1,4 @@
-1. What did you say
+1. What did you say?
 2. We are safe now
 3. I see her (I saw her)
 4. He is sick
